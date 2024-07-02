@@ -2,8 +2,8 @@
 
 Find correspondence between $k$-medoids and information theoretic vector quantization.
 
-https://ceur-ws.org/Vol-2454/paper_39.pdf
-https://www.researchgate.net/publication/353886370_ML2R_Coding_Nuggets_Hopfield_Nets_for_Hard_Vector_Quantization
+- https://ceur-ws.org/Vol-2454/paper_39.pdf
+- https://www.researchgate.net/publication/353886370_ML2R_Coding_Nuggets_Hopfield_Nets_for_Hard_Vector_Quantization
 
 Maybe find a connection between feature selection and vector quantization
 

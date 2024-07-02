@@ -7,13 +7,15 @@ https://www.researchgate.net/publication/353886370_ML2R_Coding_Nuggets_Hopfield_
 
 Maybe find a connection between feature selection and vector quantization
 
-Further literature:
+## Further literature:
+
 Vector quantization:
 - https://www.mdpi.com/1099-4300/25/3/540
 - https://arxiv.org/abs/2304.03616
 
 Feature selection:
 - https://link.springer.com/article/10.1007/s42484-023-00099-z
+- https://arxiv.org/abs/2106.02357
 
 Clustering:
 - https://www.nature.com/articles/s41598-022-06559-z
